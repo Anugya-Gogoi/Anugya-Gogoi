@@ -1,4 +1,4 @@
-![Test Image 7](https://www.canva.com/design/DAEP25_PvEc/C7OSKx8rivrGSjTGMyDT-w/edit)
+![Test Image 7](https://document-export.canva.com/_PvEc/DAEP25_PvEc/21/thumbnail/03nr9TpXjhfzEdVXqdbbZw-0001-14210618459.png)
 
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
