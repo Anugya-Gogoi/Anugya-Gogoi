@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="300" src="https://www.canva.com/design/DAEP3E1NPeA/share/preview?token=77aMIKYgoQw6o5hBqe6Wlw&role=EDITOR&utm_content=DAEP3E1NPeA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+  <img width="100%" height="300" src="https://document-export.canva.com/56u0w/DAEP3H56u0w/5/thumbnail/MS0Wjj55WRXsGpinnTydHg-0001-14211530251.png">
 </p>
 
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
