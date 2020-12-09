@@ -1,5 +1,4 @@
 ## Hi, I'm Anugya! 😃😃
-<br><br>
 
 - 🔭 I’m currently working on : Exploring Python
 - 👯 I’m looking to collaborate : With other developers in the community
