@@ -19,7 +19,6 @@
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave) 
 
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=5&theme=synthwave)]()
 
 
