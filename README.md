@@ -7,7 +7,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source 
 - ⚡ Fun fact: I'm a Bookworm 😄
 
-[![Generic badge](https://img.shields.io/badge/<code>-<HTML>-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<code>-<Python>-<COLOR>.svg)](https://shields.io/)
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=5&theme=synthwave)]()
