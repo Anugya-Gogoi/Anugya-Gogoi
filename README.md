@@ -6,8 +6,7 @@
 - 💬 Ask me about : HTML/CSS, anytime! 😀
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br>
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+https://dev.to/badge/github-actions-hackathon-participant
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=5&theme=synthwave)]()
