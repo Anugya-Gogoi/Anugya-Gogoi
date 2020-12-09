@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br><br>
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=tokyonight)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=5&theme=tokyonight)]()
+
 
 
 
