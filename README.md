@@ -4,7 +4,7 @@
 - 🔭 I’m currently exploring Python
 - 👯 I’m looking to collaborate with other developers in the community
 - 💬 Ask me about HTML/CSS, anytime! 😀
-- 🥅 My 2020 Goals are Contribute more to Open Source 
+- 🥅 My 2020 Goal is to contribute more to the Open Source Community
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br>
 
