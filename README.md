@@ -1,3 +1,5 @@
+![Test Image 7](https://www.canva.com/design/DAEP25_PvEc/C7OSKx8rivrGSjTGMyDT-w/edit)
+
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About myself:
