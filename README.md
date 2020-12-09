@@ -1,5 +1,6 @@
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+[![Generic badge](https://img.shields.io/badge/<🕶>-<DEVELOPER>-<blue>.svg)](https://shields.io/)
 
 - 🔭 I’m currently working on : Exploring Python
 - 👯 I’m looking to collaborate : With other developers in the community
