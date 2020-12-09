@@ -1,7 +1,7 @@
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About myself:
-<br>
+
 - 🔭 I’m currently exploring Python
 - 👯 I’m looking to collaborate with other developers in the community
 - 💬 Ask me about HTML/CSS, anytime! 😀
