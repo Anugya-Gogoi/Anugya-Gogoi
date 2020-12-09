@@ -5,7 +5,7 @@
 - 💬 Ask me about : HTML/CSS, anytime! 😀
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br><br>
-
+---
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=tokyonight)
 
 
