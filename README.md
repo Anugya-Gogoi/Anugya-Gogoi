@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Anugya! 😃😃
 
 <!--
 **Anugya-Gogoi/Anugya-Gogoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on : Exploring Python
+- 👯 I’m looking to collaborate : With other developers in the community
+- 💬 Ask me about : HTML/CSS, anytime! 😀
+- ⚡ Fun fact: I'm a Bookworm 😄
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&hide_border=true)
+
+
+
