@@ -1,12 +1,13 @@
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Generic badge](https://img.shields.io/badge/<🕶>-<DEVELOPER>-<blue>.svg)](https://shields.io/)
 
 - 🔭 I’m currently working on : Exploring Python
 - 👯 I’m looking to collaborate : With other developers in the community
 - 💬 Ask me about : HTML/CSS, anytime! 😀
 - 🥅 2020 Goals: Contribute more to Open Source 
 - ⚡ Fun fact: I'm a Bookworm 😄
+
+***
 
 [![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<blue>.svg)](https://shields.io/) &nbsp;
 [![Generic badge](https://img.shields.io/badge/<code>-<PYTHON>-<blue>.svg)](https://shields.io/)
