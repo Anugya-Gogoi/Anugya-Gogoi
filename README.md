@@ -7,7 +7,7 @@
 - 🥅 My 2020 Goals are Contribute more to Open Source 
 - ⚡ Fun fact: I'm a Bookworm 😄
 
-[![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<blue>.svg)](https://shields.io/) &nbsp;
+[![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<BLUE>.svg)](https://shields.io/) &nbsp;
 [![Generic badge](https://img.shields.io/badge/<code>-<PYTHON>-<blue>.svg)](https://shields.io/) &nbsp;
 [![Generic badge](https://img.shields.io/badge/<code>-<C>-<blue>.svg)](https://shields.io/)
 
