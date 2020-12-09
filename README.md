@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br>
 
-[![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<BLUE>.svg)](https://shields.io/) &nbsp;
-[![Generic badge](https://img.shields.io/badge/<code>-<PYTHON>-<blue>.svg)](https://shields.io/) &nbsp;
+[![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<BLUE>.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/<code>-<PYTHON>-<blue>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/<code>-<C>-<blue>.svg)](https://shields.io/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
