@@ -6,7 +6,6 @@
 - 💬 Ask me about HTML/CSS, anytime! 😀
 - 🥅 My 2020 Goal is to contribute more to the Open Source Community
 - ⚡ Fun fact: I'm a Bookworm 😄
-<br>
 
 [![Generic badge](https://img.shields.io/badge/<code>-<HTML/CSS>-<BLUE>.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/<code>-<PYTHON>-<blue>.svg)](https://shields.io/)
