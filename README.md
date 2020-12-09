@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://www.canva.com/design/DAEP24MOxOA/B5kDTVoVO1zt42rtzAAFPg/edit" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+ <br />
 </div>
 
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
