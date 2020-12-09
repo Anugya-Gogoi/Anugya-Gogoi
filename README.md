@@ -1,7 +1,5 @@
 ## Hi, I'm Anugya! 😃😃
-
-<!--
-**Anugya-Gogoi/Anugya-Gogoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
 - 🔭 I’m currently working on : Exploring Python
 - 👯 I’m looking to collaborate : With other developers in the community
