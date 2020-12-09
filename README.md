@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://document-export.canva.com/_PvEc/DAEP25_PvEc/21/thumbnail/03nr9TpXjhfzEdVXqdbbZw-0001-14210618459.png">
+  <img width="100%" height="300" src="https://document-export.canva.com/_PvEc/DAEP25_PvEc/21/thumbnail/03nr9TpXjhfzEdVXqdbbZw-0001-14210618459.png">
 </p>
 
 ## Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
