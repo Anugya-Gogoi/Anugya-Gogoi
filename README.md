@@ -1,4 +1,4 @@
-## Hi, I'm Anugya! 😃😃
+## Hi, I'm Anugya! 😃👋
 
 
 - 🔭 I’m currently working on : Exploring Python
