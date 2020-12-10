@@ -7,6 +7,11 @@
 - 💬 Ask me about HTML/CSS, anytime! 😀
 - 🥅 My 2020 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a Bookworm 😄
+
+<p align="right">
+  <img align="center" width="12%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/>
+  <br>
+ </p>
 <br>
 
 [![Generic badge](https://img.shields.io/badge/code-HTML/CSS-<BLUE>.svg)](https://shields.io/) 
