@@ -1,6 +1,6 @@
-# Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <img src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/Anugya.png">
+
+# Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About myself:
 
