@@ -31,8 +31,7 @@
 ### Knowledge of:
 
 `Responsive web design`, `Object-Oriented Programming`
-<br>
-
+<br><br>
 
 ### My GitHub statistics:
 
