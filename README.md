@@ -28,11 +28,6 @@
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
 <br><br>
 
-### Knowledge of:
-
-`Responsive web design`, `Object-Oriented Programming`
-<br><br>
-
 ### My GitHub statistics:
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave)
