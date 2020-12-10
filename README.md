@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there, I'm Anugya Gogoi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
 
 <img src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/Anugya.png">
 
