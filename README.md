@@ -17,8 +17,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <br>
 
-***
-
 ### Languages and Tools:
 
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/1200px-Python-logo-notext.svg.png"></code>
@@ -29,14 +27,12 @@
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/c.jpg"></code>
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
 <br>
-***
 
 ### Knowledge of:
 
 `Responsive web design`, `Object-Oriented Programming`
 <br>
 
-***
 
 ### My GitHub statistics:
 
