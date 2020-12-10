@@ -15,7 +15,7 @@
 [![Generic badge](https://img.shields.io/badge/code-TeX-<blue>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/code-Scilab-<blue>.svg)](https://shields.io/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+<br>
 ***
 
 ### Languages and Tools:
@@ -26,8 +26,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
-
+<br><br>
 ***
 
 
