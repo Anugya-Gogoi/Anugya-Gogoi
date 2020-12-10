@@ -27,12 +27,14 @@
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+
 ***
 
 
 ### Knowledge of:
 
 `Responsive web design`, `Object-Oriented Programming`
+
 
 ***
 
