@@ -26,7 +26,7 @@
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/GitHub-Mark.png"></code>
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/c.jpg"></code>
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
-<br>
+<br><br>
 
 ### Knowledge of:
 
