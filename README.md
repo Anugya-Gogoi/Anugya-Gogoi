@@ -26,11 +26,13 @@
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 <br>
+<code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/1200px-Python-logo-notext.svg.png"></code>
 
 ### Knowledge of:
 
 `Responsive web design`, `Object-Oriented Programming`
 <br>
+
 ***
 
 ### My GitHub statistics:
