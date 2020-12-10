@@ -17,12 +17,18 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <br>
 
+***
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/121-css3-512.png"></code>
+<code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/HTML5_Logo_512.png"></code>
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/GitHub-Mark.png"></code>
+<code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/c.jpg"></code>
+<code><img height="20" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
+
 
 ### Knowledge of:
 
