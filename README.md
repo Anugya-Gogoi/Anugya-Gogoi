@@ -36,7 +36,7 @@
 ### My GitHub statistics:
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=radical)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=5&theme=radical&layout=compact)]()
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=8&theme=radical&layout=compact)]()
 
 
 
