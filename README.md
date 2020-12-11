@@ -6,7 +6,7 @@
 ### About myself:
 
 - 🔭 I’m currently exploring Python.
-- 👯 I’m looking to collaborate with other developers in the community.
+- 👯 I’m looking forward to collaborating with other developers in the community.
 - 💬 Ask me about HTML/CSS, anytime! 😀
 - 🥅 My 2020 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a Bookworm 😄
