@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring Python.
 - 👯 I’m looking forward to collaborating with other developers in the community.
-- 💬 Ask me about HTML/CSS, C, C++ anytime! 😀
+- 💬 Ask me about HTML/CSS, C and C++ anytime! 😀
 - 🥅 My 2020 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br>
