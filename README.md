@@ -13,11 +13,11 @@
 <br>
 
 [![Generic badge](https://img.shields.io/badge/HTML/CSS-<BLUE>.svg)](https://shields.io/) 
-[![Generic badge](https://img.shields.io/badge/code-Python-<blue>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/code-C-<blue>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/code-C++-<blue>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/code-TeX-<blue>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/code-Scilab-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/C-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/C++-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TeX-<blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Scilab-<blue>.svg)](https://shields.io/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <br><br>
 
