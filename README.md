@@ -40,10 +40,10 @@
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=synthwave&layout=compact)]()
 
 
-### My Activity
+### My Activity:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=buefy" alt="My contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=synthwave" alt="My contributions"/>
 </p>
 
 
