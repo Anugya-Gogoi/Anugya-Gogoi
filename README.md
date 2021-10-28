@@ -40,5 +40,11 @@
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=synthwave&layout=compact)]()
 
 
+### My Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya_Gogoi&theme=buefy" alt="My contributions"/>
+</p>
+
 
 
