@@ -43,7 +43,7 @@
 ### My Activity:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=synthwave" alt="My contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=vue" alt="My contributions"/>
 </p>
 
 
