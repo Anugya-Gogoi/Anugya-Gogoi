@@ -42,7 +42,7 @@
 
 ### My Activity:
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=algolia" alt="My contributions"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=vue" alt="My contributions"/>
 
 
 
