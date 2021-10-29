@@ -42,9 +42,8 @@
 
 ### My Activity:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=algolia" alt="My contributions"/>
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=algolia" alt="My contributions"/>
+
 
 
 
