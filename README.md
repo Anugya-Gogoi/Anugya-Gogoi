@@ -34,6 +34,11 @@
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/gcp.png"></code>
 <br><br>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
+</p>
+
 ### My GitHub statistics:
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave)
