@@ -35,8 +35,8 @@
 
 ### My GitHub statistics:
 
-![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave)
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=synthwave&layout=compact)]()
+![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=nightowl)
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=nightowl&layout=compact)]()
 
 
 ### My Activity:
