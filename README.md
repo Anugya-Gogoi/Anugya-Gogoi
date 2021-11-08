@@ -18,7 +18,11 @@
 [![Generic badge](https://img.shields.io/badge/C++-<blue>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TeX-<blue>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Scilab-<blue>.svg)](https://shields.io/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<br><br>
+
+### Visitor Count:
+
+<img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
 <br><br>
 
 ### Languages and Tools:
@@ -34,10 +38,7 @@
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/gcp.png"></code>
 <br><br>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
-</p>
+  
 
 ### My GitHub statistics:
 
