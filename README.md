@@ -20,11 +20,6 @@
 [![Generic badge](https://img.shields.io/badge/Scilab-<blue>.svg)](https://shields.io/)
 <br><br>
 
-### Visitor Count:
-
-<img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
-<br>
-
 ### Languages and Tools:
 
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/1200px-Python-logo-notext.svg.png"></code>
@@ -38,8 +33,6 @@
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/gcp.png"></code>
 <br><br>
 
-  
-
 ### My GitHub statistics:
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=synthwave)
@@ -51,5 +44,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
 
 
+### Visitor Count:
+
+<img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
+<br>
 
 
