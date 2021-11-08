@@ -5,7 +5,7 @@
 
 ### About myself:
 
-- 🔭 I’m currently exploring Python.
+- 🔭 I’m currently exploring Python and C++.
 - 👯 I’m looking forward to collaborating with other developers in the community.
 - 💬 Ask me about HTML/CSS, C and C++ anytime! 😀
 - 🥅 My 2021 Goal is to contribute more to Open Source.
