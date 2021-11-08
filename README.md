@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm a Bookworm 😄
 <br>
 
-[![Generic badge](https://img.shields.io/badge/HTML/CSS-<BLUE>.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/HTML/CSS-<black>.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/Python-<blue>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/C-<blue>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/C++-<blue>.svg)](https://shields.io/)
