@@ -23,6 +23,7 @@
 ### Visitor Count:
 
 <img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
+<br>
 
 ### Languages and Tools:
 
