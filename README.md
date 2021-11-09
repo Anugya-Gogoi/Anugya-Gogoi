@@ -10,7 +10,7 @@
 - 💬 Ask me about HTML/CSS, C and C++ anytime! 😀
 - 🥅 My 2021 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a Bookworm 😄
-
+<br>
 
 ### Languages and Tools:
 
@@ -23,13 +23,13 @@
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/pycharm.png"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/gcp.png"></code>
-<br><br>
+<br>
 
 ### My GitHub statistics:
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=nightowl)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=nightowl&layout=compact)]()
-
+<br>
 
 ### My Activity:
 
