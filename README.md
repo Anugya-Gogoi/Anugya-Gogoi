@@ -10,6 +10,7 @@
 - 💬 Ask me about HTML/CSS, C and C++ anytime! 😀
 - 🥅 My 2021 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a Bookworm 😄
+<br>
 
 ### Languages and Tools:
 
