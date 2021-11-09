@@ -34,7 +34,7 @@
 ### My Activity:
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
-<br>
+
 
 ### Visitor Count:
 
