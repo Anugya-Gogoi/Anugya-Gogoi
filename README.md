@@ -10,7 +10,6 @@
 - 💬 Ask me about HTML/CSS, C and C++ anytime! 😀
 - 🥅 My 2021 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a Bookworm 😄
-<br>
 
 ### Languages and Tools:
 
@@ -29,7 +28,7 @@
 
 ![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=nightowl)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=nightowl&layout=compact)]()
-<br>
+<br><br>
 
 ### My Activity:
 
