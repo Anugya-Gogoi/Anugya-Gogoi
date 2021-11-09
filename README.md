@@ -23,7 +23,7 @@
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/pycharm.png"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/gcp.png"></code>
-<br>
+<br><br>
 
 ### My GitHub statistics:
 
