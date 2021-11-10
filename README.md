@@ -32,7 +32,7 @@
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
 
-### Visitor Count:
+### Visitor Counts on my profile:
 
 <img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" />
 <br>
