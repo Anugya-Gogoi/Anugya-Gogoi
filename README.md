@@ -1,8 +1,6 @@
 <h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 <br>
 
-<img src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/Anugya_profile.png">
-
 ### About myself:
 
 - 🔭 I’m currently exploring Python and C++.
@@ -27,14 +25,12 @@
 
 ### My GitHub statistics:
 
-![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=nightowl) 
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=nightowl&layout=compact)]()
+![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=nightowl) [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=10&theme=nightowl&layout=compact)]()
 <br><br>
 
 ### My Activity:
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
-
 
 ### Visitor Count:
 
