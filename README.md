@@ -2,16 +2,18 @@
 <br>
 
 I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.
+<a href="https://www.linkedin.com/in/anugya-gogoi-cse/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <br>
 
-### About myself:
+### More about myself
 
 - 🔭 I’m currently exploring Python and C++.
 - 👯 I’m looking forward to collaborating with other developers in the community.
-- 💬 Ask me about HTML/CSS, C and C++ anytime! 😀
+- 💬 Ask me about anything anytime! 😀
 - 🥅 My 2021 Goal is to contribute more to Open Source.
-- ⚡ Fun fact: I'm a Bookworm 😄
-<br>
+- ⚡ Fun fact: I'm a bookworm! ✌
 
 ### Languages and Tools:
 
