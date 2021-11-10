@@ -4,6 +4,10 @@
 <a href="https://www.linkedin.com/in/anugya-gogoi-cse/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://www.hackerrank.com/dashboard">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/hackerrank.svg" />
+</a>
 <br><br>
 I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.
 <br>
