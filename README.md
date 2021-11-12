@@ -9,7 +9,6 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 - 🔭 I’m currently exploring Python and C++.
 - 👯 I’m looking forward to collaborating with other developers in the community.
 - 💬 Ask me about anything anytime! 😀
-- 🥅 My 2021 Goal is to contribute more to Open Source.
 - ⚡ Fun fact: I'm a bookworm! ✌
 
 ### Languages and Tools:
