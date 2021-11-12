@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>
 <p align="center"> 
-  Visitor Count
+  Visitor Count <br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 <br>
