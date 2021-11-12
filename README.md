@@ -17,7 +17,7 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Anugya%20Gogoi-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anugya-gogoi-cse/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Anugya%20Gogoi-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/anugyagogoi22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anugya%20Gogoi-black?logo=LeetCode&logoColor=orange&labelColor=black)](https://leetcode.com/Anugya_Gogoi/)
-<br>
+<br><br>
 
 ### Languages and Tools:
 
