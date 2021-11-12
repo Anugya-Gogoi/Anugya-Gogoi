@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>
 <br><br>
-
-<center><img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg" /></center>
+<center><img src="https://profile-counter.glitch.me/Anugya-Gogoi/count.svg"></center>
 <br>
 
 I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.
