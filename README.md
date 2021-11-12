@@ -34,9 +34,8 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
 
-#### Thanks for visiting my profile
-<p align="center"> 
+### Thanks for visiting my profile. My visitor count:
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+
 
 
