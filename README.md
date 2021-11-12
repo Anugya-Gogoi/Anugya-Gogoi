@@ -6,8 +6,8 @@
 
 I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.<br>
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anugya-gogoi-cse/)](https://www.linkedin.com/in/anugya-gogoi-cse/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Anugya_Gogoi/)
+[![Linkedin Badge](https://img.shields.io/badge/-AnugyaGogoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anugya-gogoi-cse/)](https://www.linkedin.com/in/anugya-gogoi-cse/)
+[![LeetCode](https://img.shields.io/badge/-AnugyaGogoi-LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Anugya_Gogoi/)
 
 ### More about myself:
 
