@@ -22,8 +22,8 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/scilab.jpg"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/pycharm.png"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/sql.png"></code>
-
-<br><br>
+<code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/sql.png"></code>
+<br>
 
 ### My GitHub statistics:
 
