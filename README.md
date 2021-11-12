@@ -5,6 +5,7 @@
 <br>
 
 I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anugya-gogoi-cse/)
 <br>
 
 ### More about myself:
