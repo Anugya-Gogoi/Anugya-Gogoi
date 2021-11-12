@@ -12,8 +12,7 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 - 🔭 I’m currently exploring Python and C++.
 - 👯 I’m looking forward to collaborating with other developers in the community.
 - 💬 Ask me about anything anytime! 😀
-- ⚡ Fun fact: I'm a bookworm! ✌
-<br>
+- ⚡ Fun fact: I'm a bookworm! ✌ <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Anugya%20Gogoi-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anugya-gogoi-cse/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Anugya%20Gogoi-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/anugyagogoi22)
