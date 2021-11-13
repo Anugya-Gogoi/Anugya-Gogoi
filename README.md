@@ -14,8 +14,8 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 - 💬 Ask me about anything anytime! 😀
 - ⚡ Fun fact: I'm a bookworm! ✌ <br>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Anugya%20Gogoi-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/anugyagogoi22)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Anugya%20Gogoi-orange?logo=LeetCode&logoColor=orange&labelColor=black)](https://leetcode.com/Anugya_Gogoi/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Anugya-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/anugyagogoi22)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anugya-orange?logo=LeetCode&logoColor=orange&labelColor=black)](https://leetcode.com/Anugya_Gogoi/)
 <br><br>
 
 ### Languages and Tools:
