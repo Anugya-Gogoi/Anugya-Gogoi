@@ -30,7 +30,7 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/pycharm.png"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/sql.png"></code>
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/django.jpg"></code>
-<code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/c%2B%2B.jpg"></code>
+<code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/c%2B%2B.png"></code>
 <br><br>
 
 ### My GitHub statistics:
