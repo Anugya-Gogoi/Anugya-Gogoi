@@ -4,7 +4,7 @@
 </p>
 <br>
 
-I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.<br>
+I am Anugya Gogoi, a student of Computer Science and Engineering and a passionate, self-taught frontend web developer from India. Besides web developing, I am also a competitive programming enthusiast. I have learned a lot from the open-source community and would like to make further contributions towards open-source in the future.<br>
 <br>
 
 ### More about myself:
