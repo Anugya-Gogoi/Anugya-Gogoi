@@ -37,8 +37,8 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 ## :chart: Stats
 
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&hide_border=false&count_private=true&theme=react" alt="Anugya's GitHub Stats">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&show_icons=true&hide_border=false&langs_count=10&layout=compact&theme=react" alt="Anugya's GitHub Language Stats">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&hide_border=false&count_private=true&theme=nightowl" alt="Anugya's GitHub Stats">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&show_icons=true&hide_border=false&langs_count=10&layout=compact&theme=nightowl" alt="Anugya's GitHub Language Stats">
 </div>
 
 
