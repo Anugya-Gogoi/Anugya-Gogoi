@@ -33,10 +33,6 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 <code><img height="30" src="https://github.com/Anugya-Gogoi/Anugya-Gogoi/blob/main/assets/c%2B%2B.png"></code>
 <br><br>
 
-### My GitHub statistics:
-
-![Anugya's github stats](https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&theme=nightowl) [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&langs_count=7&theme=nightowl&layout=compact)]()
-<br><br>
 
 ### My Activity:
 
