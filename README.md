@@ -34,8 +34,7 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 <br><br>
 
 
-## :chart: Stats
-
+## My Stats
 <div align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Anugya-Gogoi&show_icons=true&hide_border=false&count_private=true&theme=nightowl" alt="Anugya's GitHub Stats">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugya-Gogoi&show_icons=true&hide_border=false&langs_count=10&layout=compact&theme=nightowl" alt="Anugya's GitHub Language Stats">
@@ -43,9 +42,9 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 
 
 ### My Activity:
-
+<div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
-
+</div>
 
 
 
