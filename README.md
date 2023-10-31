@@ -39,10 +39,6 @@ I am Anugya Gogoi, a student of Computer Science and Engineering and a passionat
 </div>
 
 
-### My Activity:
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anugya-Gogoi&theme=nightowl" alt="My contributions"/>
-</div>
 
 
 
